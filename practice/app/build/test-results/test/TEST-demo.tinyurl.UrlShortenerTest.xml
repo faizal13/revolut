@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.tinyurl.UrlShortenerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-06-21T16:04:35" hostname="LAPTOP-8G2O3I2T" time="0.043">
+  <properties/>
+  <testcase name="differentOriginaldifferentShortUrlTest()" classname="demo.tinyurl.UrlShortenerTest" time="0.028"/>
+  <testcase name="getShortUrlTest()" classname="demo.tinyurl.UrlShortenerTest" time="0.005"/>
+  <testcase name="retrieveOriginalUrl()" classname="demo.tinyurl.UrlShortenerTest" time="0.002"/>
+  <testcase name="retrieveOriginalUrlException()" classname="demo.tinyurl.UrlShortenerTest" time="0.002"/>
+  <testcase name="duplicationShortUrlValidationTest()" classname="demo.tinyurl.UrlShortenerTest" time="0.001"/>
+  <system-out><![CDATA[short url ==== http://tiny.url/078yIY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
