@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.UrlShortenerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-06-21T17:15:55" hostname="LAPTOP-8G2O3I2T" time="0.088">
+  <properties/>
+  <testcase name="maxSizeExceededTest()" classname="demo.UrlShortenerTest" time="0.075"/>
+  <testcase name="generateShortUrlTest()" classname="demo.UrlShortenerTest" time="0.004"/>
+  <testcase name="getLongUrl()" classname="demo.UrlShortenerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
